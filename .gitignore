@@ -1,0 +1,4 @@
+.env
+node_modules
+photo-cache.json
+content-cache.json
