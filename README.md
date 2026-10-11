@@ -54,7 +54,7 @@ Get-NetTCPConnection -LocalPort 3000 -ErrorAction SilentlyContinue | ForEach-Obj
 3. The terminal must print `Swaad Audio v4 running`. Also open http://localhost:3000/api/version , it must show `"version":4`.
 4. Refresh the browser with Ctrl+F5.
 
-## Audio voices (taken from the NxtWave travel-guide reference)
+## Audio voices 
 | Language | Male | Female | Locale |
 |---|---|---|---|
 | English | Matthew | Alicia | en-US |
